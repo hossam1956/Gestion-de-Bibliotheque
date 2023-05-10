@@ -1,6 +1,7 @@
 
 # Gestion de Bibliotheque
-
+## Diagramme de cas d'utilisation
+<img src="https://cdn.glitch.global/954faddc-7b28-4010-80c3-c42f104147ea/biblio.JPG?v=1683721233236" width="350" style="text align:'center'">
 
 Le projet "Gestion de Bibliothèque"  est une application qui permet à l'administrateur de gérer les livres de la bibliothèque et de permettre aux adhérents de consulter la liste des livres disponibles, de réserver un livre et de voir l'état de leur réservation(Si un livre est affiché donc il n'est pas réservé).
 
