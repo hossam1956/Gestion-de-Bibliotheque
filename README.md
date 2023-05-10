@@ -1,6 +1,6 @@
 
 # Gestion de Bibliotheque
-### Diagramme de cas d'utilisation
+## Diagramme de cas d'utilisation
 <img src="https://cdn.glitch.global/954faddc-7b28-4010-80c3-c42f104147ea/biblio.JPG?v=1683721233236" width="500" >
 ### Diagramme de classe
 <img src="https://cdn.glitch.global/954faddc-7b28-4010-80c3-c42f104147ea/Design%20sans%20titre.png?v=1683721234333" width="500" >
