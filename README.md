@@ -23,3 +23,5 @@ Modification de livre : L'administrateur peut modifier les informations d'un liv
 Suppression de livre : L'administrateur peut supprimer un livre de la bibliothèque.
 
 Cette application utilise une base de données pour stocker les informations des adhérents et des livres de la bibliothèque. Elle utilise également des modules tels que Tkinter pour l'interface graphique utilisateur, ainsi que des bibliothèques Python pour la gestion des bases de données et la gestion de l'authentification.
+## Diagramme de cas d'utilisation
+<img src="https://cdn.glitch.global/954faddc-7b28-4010-80c3-c42f104147ea/biblio.JPG?v=1683721233236" width="350">
