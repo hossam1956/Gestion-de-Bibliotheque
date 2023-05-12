@@ -4,7 +4,7 @@
 <h2>Diagramme de cas d'utilisation</h2>
 <img src="https://cdn.glitch.global/954faddc-7b28-4010-80c3-c42f104147ea/biblio.JPG?v=1683721233236" width="500" >
 <h2>Diagramme de classe</h2>
-<img src="https://cdn.glitch.global/954faddc-7b28-4010-80c3-c42f104147ea/Design%20sans%20titre%20" width="500" >
+<img src="https://cdn.glitch.global/954faddc-7b28-4010-80c3-c42f104147ea/Design%20sans%20titre%20(2).png?v=1683870968053" width="500" >
 
 Le projet "Gestion de Bibliothèque"  est une application qui permet à l'administrateur de gérer les livres de la bibliothèque et de permettre aux adhérents de consulter la liste des livres disponibles, de réserver un livre et de voir l'état de leur réservation(Si un livre est affiché donc il n'est pas réservé).
 
